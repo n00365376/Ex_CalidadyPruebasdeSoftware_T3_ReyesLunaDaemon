@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\bin\Debug\net11.0\RegistroAlumnos.exe
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\bin\Debug\net11.0\RegistroAlumnos.deps.json
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\bin\Debug\net11.0\RegistroAlumnos.runtimeconfig.json
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\bin\Debug\net11.0\RegistroAlumnos.runtimeconfig.dev.json
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\bin\Debug\net11.0\RegistroAlumnos.dll
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\bin\Debug\net11.0\RegistroAlumnos.pdb
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\RegistroAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\RegistroAlumnos.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\RegistroAlumnos.AssemblyInfo.cs
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\RegistroAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\RegistroAlumnos.dll
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\refint\RegistroAlumnos.dll
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\RegistroAlumnos.pdb
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\RegistroAlumnos.genruntimeconfig.cache
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\ref\RegistroAlumnos.dll
+C:\Users\USER\OneDrive - Universidad Privada del Norte\Escritorio\Ex_CalidadyPruebasdeSoftware_T3_ReyesLunaDaemon\RegistroAlumnos\obj\Debug\net11.0\Registro.7875D20A.Up2Date
